@@ -1,6 +1,7 @@
 """
 Our first step is to find our replacement players. We'll find this using ADP data provided by FantasyPros. We have to scrape this data. 
 We'll be working with PPR data
+This is just to demonstrate the concept of VOP
 """
 
 from bs4 import BeautifulSoup as BS
